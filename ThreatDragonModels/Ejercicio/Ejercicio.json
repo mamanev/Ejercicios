@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Ejercicio",
+    "owner": "test",
+    "description": "Main test"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "ejercicio",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "test"
+  }
+}
