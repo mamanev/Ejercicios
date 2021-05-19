@@ -86,7 +86,7 @@
                   "title": "MANIPULACION DEL SOBRE",
                   "type": "Tampering",
                   "description": "SOBRE PUDO SER ABIERTO Y COPIADO USER-PASSWORD",
-                  "mitigation": "COMPROBAR QUE EL SOBRE VIENE LACRADO Y NO HA SIDO MANIPULADO."
+                  "mitigation": "REALIZAR LA ENTREGA EN UN ENTORNO CONTROLADO (OFICINA DE SEGURIDAD) Y SIEMPRE EN MANO.\nCOMPROBAR QUE EL SOBRE VIENE LACRADO Y NO HA SIDO MANIPULADO."
                 },
                 {
                   "status": "Open",
