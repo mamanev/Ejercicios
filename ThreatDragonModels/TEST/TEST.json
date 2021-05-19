@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "TEST",
+    "owner": "TEST",
+    "description": "TEST LOGIN"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "EJERCICIO",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "TEST"
+  }
+}
